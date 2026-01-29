@@ -1,4 +1,5 @@
 package com.example.inventory_management_api.entity;
 
-public enum Role {
+public enum Role { ADMIN,STAFF
 }
+
